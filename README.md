@@ -6,7 +6,7 @@ Inspired by the many [awesome-x lists](https://github.com/emijrp/awesome-awesome
 
 An **open company** is defined, for the purposes of this list, as a for-profit organization whose practices are guided primarily by the principles of openness, transparency and interoperability, to create value for its customers and user community as a main goal, and profit as a consequence, rather than the other way around. The core principles can be summarized by the maxim:
 
-> *Share as much as possible, charge as little as possible.*
+> **Share as much as possible, charge as little as possible.**
 
 derived from the [original formulation](http://blog.gittip.com/post/26350459746/the-first-open-company/) by Gittip.
 
