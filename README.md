@@ -21,13 +21,14 @@ In practice, this often means:
 - publishing as much financial and operational data as possible, without compromising customer privacy.
 - etc.
 
-## Meta
+## Introductory resources
 - [Open business](https://en.wikipedia.org/wiki/Open_business): Wikipedia article
 - [Open business](http://p2pfoundation.net/Open_Business): from the P2P Foundation wiki
-- [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software):
-  Wikipedia article
+
+## Similar lists
 - [The Open Company Initiative](http://www.opencompany.org/) (OCI):
-  A group of companies which adopted the open company pledge
+  A group of companies which adopted the OCI pledge
+- [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/): a [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) to find the top 100 open innovation companies.
  
 ## Companies
 *(in alphabetical order)*
