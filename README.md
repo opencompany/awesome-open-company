@@ -1,5 +1,5 @@
 # Awesome Open Company
-A curated list of awesome open companies.
+A community-curated list of awesome open companies.
 Inspired by the many [awesome-x lists](https://github.com/emijrp/awesome-awesome) out there.
 
 *Contributions to this list are welcome! Just edit the README.md (this document) and send a pull request.*
