@@ -21,14 +21,17 @@ In practice, this often means:
 - publishing as much financial and operational data as possible, without compromising customer privacy.
 - etc.
 
+Table of contents:
+- [Introductory resources](#introductory-resources)
+- [Companies](#companies)
+- [Books](#books)
+- [Articles](#articles) 
+- [Videos](#videos)
+- [Similar lists](#similar-lists)
+
 ## Introductory resources
 - [Open business](https://en.wikipedia.org/wiki/Open_business): Wikipedia article
 - [Open business](http://p2pfoundation.net/Open_Business): from the P2P Foundation wiki
-
-## Similar lists
-- [The Open Company Initiative](http://www.opencompany.org/) (OCI):
-  A group of companies which adopted the OCI pledge
-- [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/): a [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) to find the top 100 open innovation companies.
  
 ## Companies
 *(in alphabetical order)*
@@ -57,3 +60,8 @@ In practice, this often means:
 
 ## Videos
 - [BetterMeans introduction](https://www.youtube.com/watch?v=MAlnMWlvw9g)
+
+## Similar lists
+- [The Open Company Initiative directory](http://www.opencompany.org/directory/) (OCI):
+  A group of companies which adopted the OCI pledge
+- [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/): a [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) to find the top 100 open innovation companies.
