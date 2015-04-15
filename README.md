@@ -4,6 +4,8 @@ Inspired by the many [awesome-x lists](https://github.com/emijrp/awesome-awesome
 
 *Contributions to this list are welcome! Just edit the README.md (this document) and send a pull request.*
 
+## What is an open company?
+
 An **open company** is defined, for the purposes of this list, as a for-profit organization whose practices are guided primarily by the principles of openness, transparency and interoperability, to create value for its customers and user community as a main goal, and profit as a consequence, rather than the other way around. The core principles can be summarized by the maxim:
 
 > **Share as much as possible, charge as little as possible.**
@@ -67,4 +69,4 @@ In practice, this often means:
 - [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/): a [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) to find the top 100 open innovation companies.
 
 ## License
-This work and all contrubitions to it are released into the public domain.
+*This work and all contrubitions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
