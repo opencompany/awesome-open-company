@@ -39,6 +39,7 @@ In practice, this often means:
 *(in alphabetical order)*
 - [Atlassian](https://www.atlassian.com/company/about/values)
 - [Balanced](https://www.balancedpayments.com/open) ("[Why I Made My Payments Startup An Open Company](http://www.fastcolabs.com/3008944/open-company/why-i-made-my-payments-startup-an-open-company)")
+- [Balsamiq](https://balsamiq.com/company/#goodcitizen)
 - [Buffer](https://buffer.com/transparency) ("[Why we have a core value of transparency at our startup, and why the reasons don't matter](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)")
 - [CodeCombat](http://codecombat.com/legal) ("[Why You Should Open-Source Your Startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)")
 - [Couchbase](http://www.couchbase.com/open-source)
