@@ -6,7 +6,7 @@ Inspired by the many [awesome-x lists](https://github.com/emijrp/awesome-awesome
 
 ## What is an open company?
 
-An **open company** is defined, for the purposes of this list, as a for-profit organization whose practices are guided primarily by the principles of openness, transparency and interoperability, to create value for its customers and user community as a main goal, and profit as a consequence, rather than the other way around. The core principles can be summarized by the maxim:
+An **open company** is defined, for the purposes of this list, as a for-profit organization whose core practices are guided by principles of openness, transparency and interoperability. This philosophy can be summarized by the maxim:
 
 > **Share as much as possible, charge as little as possible.**
 
