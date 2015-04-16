@@ -40,10 +40,13 @@ In practice, this often means:
 - [Atlassian](https://www.atlassian.com/company/about/values)
 - [Balanced](https://www.balancedpayments.com/open) ("[Why I Made My Payments Startup An Open Company](http://www.fastcolabs.com/3008944/open-company/why-i-made-my-payments-startup-an-open-company)")
 - [Buffer](https://buffer.com/transparency) ("[Why we have a core value of transparency at our startup, and why the reasons don't matter](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)")
+- [Couchbase](http://www.couchbase.com/open-source)
 - [Dreamwidth](http://www.dreamwidth.org/about)
+- [GitLab](https://about.gitlab.com/about/)
 - [Gratipay](http://inside.gratipay.com/big-picture/welcome) ("[The First Open Company](http://blog.gittip.com/post/26350459746/the-first-open-company/)")
 - [Growstuff](http://wiki.growstuff.org/index.php/Values) ("[Why Growstuff is Open Source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)")
 - [The Open Company](http://theopencompany.net/pages/about-us)
+- [Red Hat](http://jobs.redhat.com/life-at-red-hat/our-culture/)
 - [Tessel](https://tessel.io/opensource)
 
 ## Books
