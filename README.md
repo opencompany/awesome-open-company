@@ -10,7 +10,7 @@ An **open company** is defined, for the purposes of this list, as a for-profit o
 
 > **Share as much as possible, charge as little as possible.**
 
-derived from the [original formulation](http://blog.gittip.com/post/26350459746/the-first-open-company/) by Gittip.
+derived from the [original formulation](http://blog.gittip.com/post/26350459746/the-first-open-company/) by Gittip (now Gratipay).
 
 In practice, this often means:
 - releasing its products as
