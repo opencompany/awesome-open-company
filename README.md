@@ -40,6 +40,7 @@ In practice, this often means:
 - [Atlassian](https://www.atlassian.com/company/about/values)
 - [Balanced](https://www.balancedpayments.com/open) ("[Why I Made My Payments Startup An Open Company](http://www.fastcolabs.com/3008944/open-company/why-i-made-my-payments-startup-an-open-company)")
 - [Buffer](https://buffer.com/transparency) ("[Why we have a core value of transparency at our startup, and why the reasons don't matter](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)")
+- [CodeCombat](http://codecombat.com/legal) ("[Why You Should Open-Source Your Startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)")
 - [Couchbase](http://www.couchbase.com/open-source)
 - [Dreamwidth](http://www.dreamwidth.org/about)
 - [GitLab](https://about.gitlab.com/about/)
@@ -61,7 +62,6 @@ In practice, this often means:
 - Chad Whitacre: [The Second Open Company](https://medium.com/gratipay-blog/the-second-open-company-4cbab7ca1a47)
 - Timothy Cook: [Why Open Companies? A new culture of business](https://medium.com/open-companies/why-open-companies-fdb74d1b4f0f)
 - Shereef Bishay: [The Open Enterprise Manifesto](http://wayback.archive.org/web/20120415110215/http://bettermeans.org/front/learn-more/open-enterprise-manifesto/)
-- Nick Winter: [Why You Should Open-Source Your Startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)
 
 ## Videos
 - [BetterMeans introduction](https://www.youtube.com/watch?v=MAlnMWlvw9g)
