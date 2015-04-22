@@ -88,8 +88,10 @@ In practice, this often means:
 
 ## Similar lists
 - [The Open Company Initiative directory](http://www.opencompany.org/directory/) (OCI):
-  A group of companies which adopted the OCI pledge *([can't be updated by the community](https://github.com/opencompany/www.opencompany.org/issues/103), only by the companies themselves)*
-- [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/): a [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) to find the top 100 open innovation companies **(defunct -- these links are from the Web Archive)**
+  A group of companies which adopted the OCI pledge
+  - *([can't be updated by the community](https://github.com/opencompany/www.opencompany.org/issues/103), only by the companies themselves)*
+- [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/): a [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) to find the top 100 open innovation companies
+  - *(defunct — these links are from the Web Archive)*
 
 ## License
 *This work and all contrubitions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
