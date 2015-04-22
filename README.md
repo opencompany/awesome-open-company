@@ -2,6 +2,8 @@
 A community-curated list of awesome open companies,
 inspired by the many [awesome-x lists](https://github.com/emijrp/awesome-awesome) out there.
 
+(**[click here](#companies)** to jump straight to the list below.)
+
 *Contributions to this list are welcome! Just [edit the README.md](../../edit/master/README.md) (this document) and send the changes as a pull request. [Guidelines](../../wiki/Inclusion guidelines) are available.*
 
 ## What is an open company?
