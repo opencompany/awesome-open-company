@@ -65,6 +65,9 @@ In practice, this often means:
 - ![Growstuff](http://growstuff.org/assets/favicon-2f083c214b9adaf9e2ce78bcd532e4c9.ico)
   [Growstuff](http://wiki.growstuff.org/index.php/Values)
   *("[Why Growstuff is Open Source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)")*
+- ![Neocities](http://www.google.com/s2/favicons?domain=neocities.org)
+  [Neocities](https://neocities.org/stats)
+  *("[The First Neocities Open Company Report](https://neocities.org/blog/open-company-progress-report-2014)")*
 - ![The Open Company](http://www.google.com/s2/favicons?domain=theopencompany.net)
   [The Open Company](http://theopencompany.net/pages/about-us)
 - ![Red Hat](http://www.google.com/s2/favicons?domain=redhat.com)
