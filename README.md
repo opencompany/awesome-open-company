@@ -70,6 +70,8 @@ In practice, this often means:
   *("[The First Neocities Open Company Report](https://neocities.org/blog/open-company-progress-report-2014)")*
 - ![The Open Company](http://www.google.com/s2/favicons?domain=theopencompany.net)
   [The Open Company](http://theopencompany.net/pages/about-us)
+- ![OpenCraft](http://www.google.com/s2/favicons?domain=opencraft.com)
+  [OpenCraft](http://opencraft.com/)
 - ![Red Hat](http://www.google.com/s2/favicons?domain=redhat.com)
   [Red Hat](http://jobs.redhat.com/life-at-red-hat/our-culture/)
 - ![Tessel](http://i.imgur.com/Xe9AYlw.png)
