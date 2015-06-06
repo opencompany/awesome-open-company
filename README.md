@@ -1,10 +1,19 @@
 # Awesome Open Company
-A community-curated list of awesome open companies,
+A community-curated list of awesome [open companies](#what-is-an-open-company),
 inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) out there.
 
 (**[click here](#companies)** to jump straight to the list below.)
 
 *Contributions to this list are welcome! Just [edit the README.md](../../edit/master/README.md) (this document) and send the changes as a pull request. [Guidelines](../../wiki/Inclusion guidelines) are available.*
+
+## Table of contents
+1. [What is an open company?](#what-is-an-open-company)
+2. [Companies](#companies)
+3. [Books](#books)
+4. [Articles](#articles)
+5. [Videos](#videos)
+6. [Similar lists](#similar-lists)
+7. [License](#license)
 
 ## What is an open company?
 
@@ -25,16 +34,7 @@ In practice, this often means:
 - publishing as much financial and operational data as possible, without compromising customer privacy.
 - etc.
 
-## Table of contents
-1. [Introductory resources](#introductory-resources)
-2. [Companies](#companies)
-3. [Books](#books)
-4. [Articles](#articles)
-5. [Videos](#videos)
-6. [Similar lists](#similar-lists)
-7. [License](#license)
-
-## Introductory resources
+The following pages provide a more detailed overview of this concept:
 - [Open business](https://en.wikipedia.org/wiki/Open_business): Wikipedia article
 - [Open business](http://p2pfoundation.net/Open_Business): from the P2P Foundation wiki
 
