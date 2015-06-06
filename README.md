@@ -87,6 +87,8 @@ The following pages provide a more detailed overview of this concept:
 - ![Tessel](http://i.imgur.com/Xe9AYlw.png)
   [**Tessel**](https://tessel.io/opensource)
 
+## Resources
+
 ### Books
 - Don Tapscott, Anthony D. Williams: [Wikinomics](https://en.wikipedia.org/wiki/Wikinomics)
 
