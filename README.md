@@ -29,7 +29,7 @@ In practice, this often means:
 1. [Introductory resources](#introductory-resources)
 2. [Companies](#companies)
 3. [Books](#books)
-4. [Articles](#articles) 
+4. [Articles](#articles)
 5. [Videos](#videos)
 6. [Similar lists](#similar-lists)
 7. [License](#license)
@@ -37,9 +37,13 @@ In practice, this often means:
 ## Introductory resources
 - [Open business](https://en.wikipedia.org/wiki/Open_business): Wikipedia article
 - [Open business](http://p2pfoundation.net/Open_Business): from the P2P Foundation wiki
- 
+
 ## Companies
 *(in alphabetical order, with optional announcement blog posts)*
+- ![Aleph Objects](http://www.google.com/s2/favicons?domain=alephobjects.com)
+  [Aleph Objects](https://www.alephobjects.com/)
+- ![Arduino LLC](http://www.google.com/s2/favicons?domain=arduino.cc)
+  [Arduino LLC](http://www.arduino.cc/en/Guide/Introduction)
 - ![Atlassian](http://www.google.com/s2/favicons?domain=atlassian.com)
   [Atlassian](https://www.atlassian.com/company/about/values)
 - ![Balanced](http://www.google.com/s2/favicons?domain=balancedpayments.com)
@@ -55,6 +59,8 @@ In practice, this often means:
   *("[Why You Should Open-Source Your Startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)")*
 - ![Couchbase](http://www.google.com/s2/favicons?domain=couchbase.com)
   [Couchbase](http://www.couchbase.com/open-source)
+- ![Dangerous Prototypes](http://www.google.com/s2/favicons?domain=dangerousprototypes.com)
+  [Dangerous Prototypes](http://dangerousprototypes.com/docs/About)
 - ![Dreamwidth](http://www.google.com/s2/favicons?domain=dreamwidth.org)
   [Dreamwidth](http://www.dreamwidth.org/about)
 - ![Gitlab](http://www.google.com/s2/favicons?domain=gitlab.com)
