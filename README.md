@@ -9,11 +9,12 @@ inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) 
 ## Table of contents
 1. [What is an open company?](#what-is-an-open-company)
 2. [Companies](#companies)
-3. [Books](#books)
-4. [Articles](#articles)
-5. [Videos](#videos)
-6. [Similar lists](#similar-lists)
-7. [License](#license)
+3. [Resources](#resources)
+  1. [Books](#books)
+  2. [Articles](#articles)
+  3. [Videos](#videos)
+4. [Similar lists](#similar-lists)
+5. [License](#license)
 
 ## What is an open company?
 
@@ -86,10 +87,10 @@ The following pages provide a more detailed overview of this concept:
 - ![Tessel](http://i.imgur.com/Xe9AYlw.png)
   [**Tessel**](https://tessel.io/opensource)
 
-## Books
+### Books
 - Don Tapscott, Anthony D. Williams: [Wikinomics](https://en.wikipedia.org/wiki/Wikinomics)
 
-## Articles
+### Articles
 - Paul Graham: [What business can learn from open source](http://www.paulgraham.com/opensource.html)
 - Massimo Menichinelli: [Business models for open hardware](http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/)
 - Roger Clarke: [Open source software and open content as models for ebusiness](http://www.rogerclarke.com/EC/Bled04.html)
@@ -99,7 +100,7 @@ The following pages provide a more detailed overview of this concept:
 - Timothy Cook: [Why open companies? A new culture of business](https://medium.com/open-companies/why-open-companies-fdb74d1b4f0f)
 - Shereef Bishay: [The open enterprise manifesto](http://wayback.archive.org/web/20120415110215/http://bettermeans.org/front/learn-more/open-enterprise-manifesto/)
 
-## Videos
+### Videos
 - [BetterMeans introduction](https://www.youtube.com/watch?v=MAlnMWlvw9g)
 
 ## Similar lists
