@@ -48,15 +48,15 @@ In practice, this often means:
   [Atlassian](https://www.atlassian.com/company/about/values)
 - ![Balanced](http://www.google.com/s2/favicons?domain=balancedpayments.com)
   [Balanced](https://www.balancedpayments.com/open)
-  *("[Why I Made My Payments Startup An Open Company](http://www.fastcolabs.com/3008944/open-company/why-i-made-my-payments-startup-an-open-company)")*
+  *("[Why I made my payments startup an open company](http://www.fastcolabs.com/3008944/open-company/why-i-made-my-payments-startup-an-open-company)")*
 - ![Balsamiq](http://www.google.com/s2/favicons?domain=balsamiq.com)
   [Balsamiq](https://balsamiq.com/company/#goodcitizen)
 - ![Buffer](http://www.google.com/s2/favicons?domain=buffer.com)
   [Buffer](https://buffer.com/transparency)
-  *("[Why we have a core value of transparency at our startup, and why the reasons don't matter](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)")*
+  *("[Why we have a core value of transparency at our startup](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)")*
 - ![CodeCombat](http://www.google.com/s2/favicons?domain=codecombat.com/)
   [CodeCombat](http://codecombat.com/legal)
-  *("[Why You Should Open-Source Your Startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)")*
+  *("[Why you should open-source your startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)")*
 - ![Couchbase](http://www.google.com/s2/favicons?domain=couchbase.com)
   [Couchbase](http://www.couchbase.com/open-source)
 - ![Dangerous Prototypes](http://www.google.com/s2/favicons?domain=dangerousprototypes.com)
@@ -67,13 +67,13 @@ In practice, this often means:
   [GitLab](https://about.gitlab.com/about/)
 - ![Gratipay](http://www.google.com/s2/favicons?domain=gratipay.com)
   [Gratipay](http://inside.gratipay.com/big-picture/welcome)
-  *("[The First Open Company](http://blog.gittip.com/post/26350459746/the-first-open-company/)")*
+  *("[The first open company](http://blog.gittip.com/post/26350459746/the-first-open-company/)")*
 - ![Growstuff](http://growstuff.org/assets/favicon-2f083c214b9adaf9e2ce78bcd532e4c9.ico)
   [Growstuff](http://wiki.growstuff.org/index.php/Values)
-  *("[Why Growstuff is Open Source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)")*
+  *("[Why Growstuff is open source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)")*
 - ![Neocities](http://www.google.com/s2/favicons?domain=neocities.org)
   [Neocities](https://neocities.org/stats)
-  *("[The First Neocities Open Company Report](https://neocities.org/blog/open-company-progress-report-2014)")*
+  *("[The first Neocities Open Company report](https://neocities.org/blog/open-company-progress-report-2014)")*
 - ![The Open Company](http://www.google.com/s2/favicons?domain=theopencompany.net)
   [The Open Company](http://theopencompany.net/pages/about-us)
 - ![OpenCraft](http://www.google.com/s2/favicons?domain=opencraft.com)
@@ -82,7 +82,7 @@ In practice, this often means:
   [Red Hat](http://jobs.redhat.com/life-at-red-hat/our-culture/)
 - ![Reddit](http://www.google.com/s2/favicons?domain=reddit.com)
   [Reddit](https://www.reddit.com/about/values)
-  *("[reddit goes open source](http://www.redditblog.com/2008/06/reddit-goes-open-source.html)")*
+  *("[Reddit goes open source](http://www.redditblog.com/2008/06/reddit-goes-open-source.html)")*
 - ![Tessel](http://i.imgur.com/Xe9AYlw.png)
   [Tessel](https://tessel.io/opensource)
 
@@ -90,14 +90,14 @@ In practice, this often means:
 - Don Tapscott, Anthony D. Williams: [Wikinomics](https://en.wikipedia.org/wiki/Wikinomics)
 
 ## Articles
-- Paul Graham: [What Business Can Learn from Open Source](http://www.paulgraham.com/opensource.html)
-- Massimo Menichinelli: [Business Models for Open Hardware](http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/)
-- Roger Clarke: [Open Source Software and Open Content As Models for eBusiness](http://www.rogerclarke.com/EC/Bled04.html)
+- Paul Graham: [What business can learn from open source](http://www.paulgraham.com/opensource.html)
+- Massimo Menichinelli: [Business models for open hardware](http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/)
+- Roger Clarke: [Open source software and open content as models for ebusiness](http://www.rogerclarke.com/EC/Bled04.html)
 - Chris Anderson: [A business model for open source hardware](http://www.longtail.com/the_long_tail/2009/01/a-business-mode.html)
 - *The Economist*: [Open-source business: Open, but not as usual](http://www.economist.com/node/5624944)
-- Chad Whitacre: [The Second Open Company](https://medium.com/gratipay-blog/the-second-open-company-4cbab7ca1a47)
-- Timothy Cook: [Why Open Companies? A new culture of business](https://medium.com/open-companies/why-open-companies-fdb74d1b4f0f)
-- Shereef Bishay: [The Open Enterprise Manifesto](http://wayback.archive.org/web/20120415110215/http://bettermeans.org/front/learn-more/open-enterprise-manifesto/)
+- Chad Whitacre: [The second open company](https://medium.com/gratipay-blog/the-second-open-company-4cbab7ca1a47)
+- Timothy Cook: [Why open companies? A new culture of business](https://medium.com/open-companies/why-open-companies-fdb74d1b4f0f)
+- Shereef Bishay: [The open enterprise manifesto](http://wayback.archive.org/web/20120415110215/http://bettermeans.org/front/learn-more/open-enterprise-manifesto/)
 
 ## Videos
 - [BetterMeans introduction](https://www.youtube.com/watch?v=MAlnMWlvw9g)
