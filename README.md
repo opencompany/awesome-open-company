@@ -81,9 +81,6 @@ The following pages provide a more detailed overview of this concept:
   [**OpenCraft**](http://opencraft.com/)
 - ![Red Hat](http://www.google.com/s2/favicons?domain=redhat.com)
   [**Red Hat**](http://jobs.redhat.com/life-at-red-hat/our-culture/)
-- ![Reddit](http://www.google.com/s2/favicons?domain=reddit.com)
-  [**Reddit**](https://www.reddit.com/about/values)
-  *("[Reddit goes open source](http://www.redditblog.com/2008/06/reddit-goes-open-source.html)")*
 - ![Tessel](http://i.imgur.com/Xe9AYlw.png)
   [**Tessel**](https://tessel.io/opensource)
 
