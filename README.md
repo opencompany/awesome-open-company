@@ -8,7 +8,7 @@ inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) 
 
 ## Table of contents
 1. [What is an open company?](#what-is-an-open-company)
-2. [Companies](#companies)
+2. **[Companies](#companies)**
 3. [Resources](#resources)
   1. [Books](#books)
   2. [Articles](#articles)
