@@ -72,7 +72,8 @@ The following pages provide a more detailed overview of this concept:
 - ![Growstuff](http://growstuff.org/assets/favicon-2f083c214b9adaf9e2ce78bcd532e4c9.ico)
   [**Growstuff**](http://wiki.growstuff.org/index.php/Values)
   *("[Why Growstuff is open source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)")*
-- ![**MapBox**](http://mapbox.com/about/open)
+- ![MapBox](http://www.google.com/s2/favicons?domain=mapbox.com)
+  [**MapBox**](http://mapbox.com/about/open)
 - ![Neocities](http://www.google.com/s2/favicons?domain=neocities.org)
   [**Neocities**](https://neocities.org/stats)
   *("[The first Neocities Open Company report](https://neocities.org/blog/open-company-progress-report-2014)")*
