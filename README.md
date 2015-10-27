@@ -47,9 +47,6 @@ The following pages provide a more detailed overview of this concept:
   [**Arduino LLC**](http://www.arduino.cc/en/Guide/Introduction)
 - ![Atlassian](http://www.google.com/s2/favicons?domain=atlassian.com)
   [**Atlassian**](https://www.atlassian.com/company/about/values)
-- ![Balanced](http://www.google.com/s2/favicons?domain=balancedpayments.com)
-  [**Balanced**](https://www.balancedpayments.com/open)
-  *("[Why I made my payments startup an open company](http://www.fastcolabs.com/3008944/open-company/why-i-made-my-payments-startup-an-open-company)")*
 - ![Balsamiq](http://www.google.com/s2/favicons?domain=balsamiq.com)
   [**Balsamiq**](https://balsamiq.com/company/#goodcitizen)
 - ![Buffer](http://www.google.com/s2/favicons?domain=buffer.com)
