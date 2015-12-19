@@ -49,6 +49,8 @@ The following pages provide a more detailed overview of this concept:
   [**Atlassian**](https://www.atlassian.com/company/about/values)
 - ![Balsamiq](http://www.google.com/s2/favicons?domain=balsamiq.com)
   [**Balsamiq**](https://balsamiq.com/company/#goodcitizen)
+- ![Bevry](http://www.google.com/s2/favicons?domain=bevry.me)
+  [**Bevry**](https://bevry.me)
 - ![Buffer](http://www.google.com/s2/favicons?domain=buffer.com)
   [**Buffer**](https://buffer.com/transparency)
   *("[Why we have a core value of transparency at our startup](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)")*
