@@ -57,6 +57,9 @@ The following pages provide a more detailed overview of this concept:
 - ![CodeCombat](http://www.google.com/s2/favicons?domain=codecombat.com/)
   [**CodeCombat**](http://codecombat.com/legal)
   *("[Why you should open-source your startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)")*
+- ![Countly](http://www.google.com/s2/favicons?domain=count.ly)
+  [**Countly**](https://count.ly/about-us/)
+  *("[Beautiful design can drive user adoption of open source software](https://opensource.com/business/13/12/beautiful-design-drives-user-adoption-open-source-software)")*
 - ![Couchbase](http://www.google.com/s2/favicons?domain=couchbase.com)
   [**Couchbase**](http://www.couchbase.com/open-source)
 - ![Dangerous Prototypes](http://www.google.com/s2/favicons?domain=dangerousprototypes.com)
