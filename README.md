@@ -93,12 +93,12 @@ The following pages provide a more detailed overview of this concept:
 ### Articles
 - Paul Graham: [What business can learn from open source](http://www.paulgraham.com/opensource.html)
 - Massimo Menichinelli: [Business models for open hardware](http://www.openp2pdesign.org/2011/open-design/business-models-for-open-hardware/)
-- Roger Clarke: [Open source software and open content as models for ebusiness](http://www.rogerclarke.com/EC/Bled04.html)
+- Roger Clarke: [Open source software and open content as models for eBusiness](http://www.rogerclarke.com/EC/Bled04.html)
 - Chris Anderson: [A business model for open source hardware](http://www.longtail.com/the_long_tail/2009/01/a-business-mode.html)
 - *The Economist*: [Open-source business: Open, but not as usual](http://www.economist.com/node/5624944)
 - Chad Whitacre: [The second open company](https://medium.com/gratipay-blog/the-second-open-company-4cbab7ca1a47)
 - Timothy Cook: [Why open companies? A new culture of business](https://medium.com/open-companies/why-open-companies-fdb74d1b4f0f)
-- Shereef Bishay: [The open enterprise manifesto](http://wayback.archive.org/web/20120415110215/http://bettermeans.org/front/learn-more/open-enterprise-manifesto/)
+- Shereef Bishay: [The open enterprise manifesto](http://www.opencompany.org/resources/whitepaper.pdf)
 
 ### Videos
 - [BetterMeans introduction](https://www.youtube.com/watch?v=MAlnMWlvw9g)
@@ -113,4 +113,4 @@ The following pages provide a more detailed overview of this concept:
   - *(unmaintained)*
 
 ## License
-*This work and all contrubitions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
+*This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
