@@ -41,49 +41,28 @@ The following pages provide a more detailed overview of this concept:
 
 ## Companies
 *(in alphabetical order, with optional announcement blog posts)*
-- ![Aleph Objects](http://www.google.com/s2/favicons?domain=alephobjects.com)
-  [**Aleph Objects**](https://www.alephobjects.com/)
-- ![Arduino LLC](http://www.google.com/s2/favicons?domain=arduino.cc)
-  [**Arduino LLC**](http://www.arduino.cc/en/Guide/Introduction)
-- ![Atlassian](http://www.google.com/s2/favicons?domain=atlassian.com)
-  [**Atlassian**](https://www.atlassian.com/company/about/values)
-- ![Balsamiq](http://www.google.com/s2/favicons?domain=balsamiq.com)
-  [**Balsamiq**](https://balsamiq.com/company/#goodcitizen)
-- ![Bevry](http://www.google.com/s2/favicons?domain=bevry.me)
-  [**Bevry**](https://bevry.me)
-- ![Buffer](http://www.google.com/s2/favicons?domain=buffer.com)
-  [**Buffer**](https://buffer.com/transparency)
-  *("[Why we have a core value of transparency at our startup](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)")*
-- ![CodeCombat](http://www.google.com/s2/favicons?domain=codecombat.com/)
-  [**CodeCombat**](http://codecombat.com/legal)
-  *("[Why you should open-source your startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)")*
-- ![Couchbase](http://www.google.com/s2/favicons?domain=couchbase.com)
-  [**Couchbase**](http://www.couchbase.com/open-source)
-- ![Dangerous Prototypes](http://www.google.com/s2/favicons?domain=dangerousprototypes.com)
-  [**Dangerous Prototypes**](http://dangerousprototypes.com/docs/About)
-- ![Dreamwidth](http://www.google.com/s2/favicons?domain=dreamwidth.org)
-  [**Dreamwidth**](http://www.dreamwidth.org/about)
-- ![Gitlab](http://www.google.com/s2/favicons?domain=gitlab.com)
-  [**GitLab**](https://about.gitlab.com/about/)
-- ![Gratipay](http://www.google.com/s2/favicons?domain=gratipay.com)
-  [**Gratipay**](http://inside.gratipay.com/big-picture/welcome)
-  *("[The first open company](http://blog.gittip.com/post/26350459746/the-first-open-company/)")*
-- ![Growstuff](http://growstuff.org/assets/favicon-2f083c214b9adaf9e2ce78bcd532e4c9.ico)
-  [**Growstuff**](http://wiki.growstuff.org/index.php/Values)
-  *("[Why Growstuff is open source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)")*
-- ![MapBox](http://www.google.com/s2/favicons?domain=mapbox.com)
-  [**MapBox**](http://mapbox.com/about/open)
-- ![Neocities](http://www.google.com/s2/favicons?domain=neocities.org)
-  [**Neocities**](https://neocities.org/stats)
-  *("[The first Neocities Open Company report](https://neocities.org/blog/open-company-progress-report-2014)")*
-- ![The Open Company](http://www.google.com/s2/favicons?domain=theopencompany.net)
-  [**The Open Company**](http://theopencompany.net/pages/about-us)
-- ![OpenCraft](http://www.google.com/s2/favicons?domain=opencraft.com)
-  [**OpenCraft**](http://opencraft.com/)
-- ![Red Hat](http://www.google.com/s2/favicons?domain=redhat.com)
-  [**Red Hat**](http://jobs.redhat.com/life-at-red-hat/our-culture/)
-- ![Tessel](http://i.imgur.com/Xe9AYlw.png)
-  [**Tessel**](https://tessel.io/opensource)
+
+Company | Open Product | Open Finance | Statement | Open Standards | Open Channel
+------------ | ------------- | ------------- | ------------- | ------------- | -------------
+![Aleph Objects](http://www.google.com/s2/favicons?domain=alephobjects.com)[**Aleph Objects**](https://www.alephobjects.com/) |  |  |  |  |
+![Arduino LLC](http://www.google.com/s2/favicons?domain=arduino.cc)[**Arduino LLC**](http://www.arduino.cc/en/Guide/Introduction) |  |  |  |  |
+![Atlassian](http://www.google.com/s2/favicons?domain=atlassian.com)[**Atlassian**](https://www.atlassian.com/company/about/values) |  |  |  |  |
+![Balsamiq](http://www.google.com/s2/favicons?domain=balsamiq.com)[**Balsamiq**](https://balsamiq.com/company/#goodcitizen) |  |  |  |  |
+![Bevry](http://www.google.com/s2/favicons?domain=bevry.me)[**Bevry**](https://bevry.me) |  |  |  |  |
+![Buffer](http://www.google.com/s2/favicons?domain=buffer.com)[**Buffer**](https://buffer.com/transparency) |  |  |*("[Why we have a core value of transparency at our startup](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)")*|  |
+![CodeCombat](http://www.google.com/s2/favicons?domain=codecombat.com/)[**CodeCombat**](http://codecombat.com/legal) |  |  |*("[Why you should open-source your startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)")*|  |
+![Couchbase](http://www.google.com/s2/favicons?domain=couchbase.com)[**Couchbase**](http://www.couchbase.com/open-source) |  |  |  |  |
+![Dangerous Prototypes](http://www.google.com/s2/favicons?domain=dangerousprototypes.com)[**Dangerous Prototypes**](http://dangerousprototypes.com/docs/About) |  |  |  |  |
+![Dreamwidth](http://www.google.com/s2/favicons?domain=dreamwidth.org)[**Dreamwidth**](http://www.dreamwidth.org/about) |  |  |  |  |
+![Gitlab](http://www.google.com/s2/favicons?domain=gitlab.com)[**GitLab**](https://about.gitlab.com/about/) |  |  |  |  |
+![Gratipay](http://www.google.com/s2/favicons?domain=gratipay.com)[**Gratipay**](http://inside.gratipay.com/big-picture/welcome) |  |  |*("[The first open company](http://blog.gittip.com/post/26350459746/the-first-open-company/)")*|  |
+![Growstuff](http://growstuff.org/assets/favicon-2f083c214b9adaf9e2ce78bcd532e4c9.ico)[**Growstuff**](http://wiki.growstuff.org/index.php/Values) |  |  |*("[Why Growstuff is open source](http://blog.growstuff.org/2013/02/20/why-growstuff-is-open-source/)")*|  |
+![MapBox](http://www.google.com/s2/favicons?domain=mapbox.com)[**MapBox**](http://mapbox.com/about/open) |  |  |  |  |
+![Neocities](http://www.google.com/s2/favicons?domain=neocities.org)[**Neocities**](https://neocities.org/stats) |  |  |*("[The first Neocities Open Company report](https://neocities.org/blog/open-company-progress-report-2014)")*|  |
+![The Open Company](http://www.google.com/s2/favicons?domain=theopencompany.net)[**The Open Company**](http://theopencompany.net/pages/about-us) |  |  |  |  |
+![OpenCraft](http://www.google.com/s2/favicons?domain=opencraft.com)[**OpenCraft**](http://opencraft.com/) |  |  |  |  |
+![Red Hat](http://www.google.com/s2/favicons?domain=redhat.com)[**Red Hat**](http://jobs.redhat.com/life-at-red-hat/our-culture/) |  |  |  |  |
+![Tessel](http://i.imgur.com/Xe9AYlw.png)[**Tessel**](https://tessel.io/opensource) |  |  |  |  |
 
 ## Resources
 
