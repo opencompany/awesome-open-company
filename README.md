@@ -90,6 +90,8 @@ Company | Openness Pledge | Open Product | Open Standards | Statement | Open Cha
   - *(defunct — these links are from the Web Archive)*
 - The VAR Guy's [The Open Source 50](http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
   - *(unmaintained)*
+- [Awesome Open](https://github.com/paulhendricks/awesome-open):
+  A curated list of organizations, projects and initiatives that maintain open codebases and datasets
 
 ## License
 *This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
