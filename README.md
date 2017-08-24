@@ -63,6 +63,7 @@ Company | Openness Pledge | Open Product | Open Standards | Statement | Open Cha
 ![OpenCraft](http://www.google.com/s2/favicons?domain=opencraft.com) [**OpenCraft**](http://opencraft.com/) | [OpenCraft \| Open edX Development &amp; Hosting Services](http://opencraft.com/) | N/A |  |  |  |
 ![Red Hat](http://www.google.com/s2/favicons?domain=redhat.com) [**Red Hat**](https://www.redhat.com/) | [Red Hat Jobs - Our culture](https://www.redhat.com/en/jobs/life/culture) | [Mics](https://www.redhat.com/en/open-source/communities) |  |  |  |
 ![Tessel](http://i.imgur.com/Xe9AYlw.png) [**Tessel**](https://tessel.io/) | [Open Source - Tessel](https://tessel.io/opensource) | :octocat:[Tessel](https://github.com/tessel/project) |  |  |  |
+![Transloadit](https://www.google.com/s2/favicons?domain=transloadit.com) [**Transloadit**](https://transloadit.com/) | [Open Source](https://transloadit.com/open-source/) | :octocat:[Uppy](https://uppy.io) | [tus](https://tus.io) | [Jobs & Culture](https://transloadit.com/jobs/) |  |
 
 ## Resources
 
