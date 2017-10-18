@@ -62,6 +62,7 @@ Company | Openness Pledge | Open Product | Open Standards | Statement | Open Cha
 ![The Open Company](http://www.google.com/s2/favicons?domain=theopencompany.net) [**The Open Company**](http://theopencompany.net/) | [The Open Company](http://theopencompany.net/pages/about-us) | N/A |  |  |  |
 ![OpenCraft](http://www.google.com/s2/favicons?domain=opencraft.com) [**OpenCraft**](http://opencraft.com/) | [OpenCraft \| Open edX Development &amp; Hosting Services](http://opencraft.com/) | N/A |  |  |  |
 ![Red Hat](http://www.google.com/s2/favicons?domain=redhat.com) [**Red Hat**](https://www.redhat.com/) | [Red Hat Jobs - Our culture](https://www.redhat.com/en/jobs/life/culture) | [Mics](https://www.redhat.com/en/open-source/communities) |  |  |  |
+![Sentry](https://www.google.com/s2/favicons?domain=sentry.io) [**Sentry**](https://sentry.io/) | [About Sentry](https://sentry.io/about/) | [Sentry](https://github.com/getsentry/sentry) | | [Driven by Open Source](https://blog.sentry.io/2015/06/30/driven-by-open-source) | | |
 ![Tessel](http://i.imgur.com/Xe9AYlw.png) [**Tessel**](https://tessel.io/) | [Open Source - Tessel](https://tessel.io/opensource) | :octocat:[Tessel](https://github.com/tessel/project) |  |  |  |
 ![Transloadit](https://www.google.com/s2/favicons?domain=transloadit.com) [**Transloadit**](https://transloadit.com/) | [Open Source](https://transloadit.com/open-source/) | :octocat:[Uppy](https://uppy.io) | [tus](https://tus.io) | [Jobs & Culture](https://transloadit.com/jobs/) |  |
 
