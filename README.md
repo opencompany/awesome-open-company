@@ -65,6 +65,7 @@ Company | Openness Pledge | Open Product | Open Standards | Statement | Open Cha
 ![Sentry](https://www.google.com/s2/favicons?domain=sentry.io) [**Sentry**](https://sentry.io/) | [About Sentry](https://sentry.io/about/) | [Sentry](https://github.com/getsentry/sentry) | | [Driven by Open Source](https://blog.sentry.io/2015/06/30/driven-by-open-source) | | |
 ![Tessel](http://i.imgur.com/Xe9AYlw.png) [**Tessel**](https://tessel.io/) | [Open Source - Tessel](https://tessel.io/opensource) | :octocat:[Tessel](https://github.com/tessel/project) |  |  |  |
 ![Transloadit](https://www.google.com/s2/favicons?domain=transloadit.com) [**Transloadit**](https://transloadit.com/) | [Open Source](https://transloadit.com/open-source/) | :octocat:[Uppy](https://uppy.io) | [tus](https://tus.io) | [Jobs & Culture](https://transloadit.com/jobs/) |  |
+![wemake.services](https://www.google.com/s2/favicons?domain=wemake.services) [**wemake.services**](https://wemake.serivces/) | [Open Source](https://github.com/wemake-services) | :octocat:[wemake.services](https://github.com/wemake-services) | [meta](https://github.com/wemake-services/meta) | [All our processes explained](https://github.com/wemake-services/meta/blob/master/README.md#purpose) |  |
 
 ## Resources
 
