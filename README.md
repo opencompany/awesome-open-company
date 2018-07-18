@@ -40,7 +40,6 @@ The following pages provide a more detailed overview of this concept:
 - [Open business](http://p2pfoundation.net/Open_Business): from the P2P Foundation wiki
 
 ## Companies
-*(in alphabetical order, with optional announcement blog posts)*
 
 Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 ------------ | --------------- | ------------- | ------------- | ------------
