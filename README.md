@@ -89,8 +89,8 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 
 ## Similar lists
 - [The Open Company Initiative directory](http://www.opencompany.org/directory/) (OCI):
-  A group of companies which adopted the OCI pledge
-  - *([can't be updated by the community](https://github.com/opencompany/www.opencompany.org/issues/103), only by the companies themselves)*
+  A group of companies which explicitly adopted OCI's openness pledge
+  - *(dormant)*
 - [The Open 100](http://wayback.archive.org/web/20110824041839/http://www.openbusiness.cc/category/directory/openbusiness/): a [competition held in 2009-2010](http://wayback.archive.org/web/20120727175118/http://www.openbusiness.cc/open100/about/) to find the top 100 open innovation companies
   - *(defunct — these links are from the Web Archive)*
 - The VAR Guy's [The Open Source 50](http://thevarguy.com/var-guy/var-guys-open-source-50) ([2009 list](http://wayback.archive.org/web/20121118155240/http://www.thevarguy.com/the-open-source-50/the-open-source-50-listed-a-to-z/), [2010 list](http://wayback.archive.org/web/20120509194329/http://www.thevarguy.com/the-open-source-50/the-open-source-50-a-to-z-2010-edition/), [2012 update](http://thevarguy.com/open-source-application-software-companies/top-50-open-source-companies-where-are-they-now))
