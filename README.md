@@ -1,4 +1,5 @@
-# Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Subscribe to updates](https://i.listlist.net/badge.svg?m=opencompany%2Fawesome-open-company)](https://listlist.net/user/opencompany/awesome-open-company?subscribe)
+
 A community-curated list of awesome [open companies](#what-is-an-open-company),
 inspired by the many [awesome-x lists](https://github.com/sindresorhus/awesome) out there.
 
