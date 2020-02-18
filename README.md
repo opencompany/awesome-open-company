@@ -76,6 +76,7 @@ Company      | Openness Pledge | Open Product  | Statement     | Open Finance
 
 ### Books
 - Don Tapscott, Anthony D. Williams: [Wikinomics](https://en.wikipedia.org/wiki/Wikinomics)
+- James M. Whitehurst: [The Open Organization: Igniting Passion and Performance](https://www.redhat.com/en/explore/the-open-organization-book)
 
 ### Articles
 - Paul Graham: [What business can learn from open source](http://www.paulgraham.com/opensource.html)
